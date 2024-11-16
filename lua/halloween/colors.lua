@@ -9,12 +9,17 @@ local dark_pink = "#9E3B2E"
 local pink = "#FF2F1A"
 local light_pink = "#FFB2A6"
 local gray = "#7A7A7A"
-local bg = "#2B2B2B"
-local bg_float = "#4B4B4B"
-local bg_float_bright = "#6E6E6E"
-local fg = "#FFD1A3"
-local fg_gutter = "#C17A52"
-local fg_dark = "#8A3C2F"
+
+local bg = "#000000"
+local bg_float = "#101010"
+local bg_float_bright = "#121212"
+local fg = "#C9C1C9"
+local fg_gutter = "#8A95A2"
+local fg_dark = "#4D5566"
+
+--local fg = "#FFD1A3"
+--local fg_gutter = "#C17A52"
+--local fg_dark = "#8A3C2F"
 
 local M = {}
 
