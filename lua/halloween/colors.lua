@@ -7,7 +7,7 @@ local dark_purple = "#6E0F0F"
 local magenta = "#C64C48"
 local dark_pink = "#9E3B2E"
 local pink = "#FF2F1A"
-local light_pink = "#FFB2A6"
+local light_pink = "#e08738"
 local gray = "#7A7A7A"
 
 local bg = "#1c1501"
