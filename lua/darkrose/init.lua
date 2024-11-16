@@ -1,9 +1,9 @@
-local utils = require("darkrose.utils")
+local utils = require("halloween.utils")
 
 local M = {}
 
 function M.setup(options)
-  require("darkrose.config").setup(options)
+  require("halloween.config").setup(options)
 end
 
 function M.colorscheme()
@@ -12,7 +12,7 @@ function M.colorscheme()
   end
 
   vim.opt.termguicolors = true
-  vim.g.colors_name = "darkrose"
+  vim.g.colors_name = "halloween"
 
   utils.apply_highlights()
 end
