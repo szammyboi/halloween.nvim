@@ -10,7 +10,7 @@ local pink = "#FF2F1A"
 local light_pink = "#e08738"
 local gray = "#7A7A7A"
 
-local bg = "#1c1501"
+local bg = "#000000"
 --local bg = "#221a02"
 local bg_float = "#1c1501"
 local bg_float_bright = "#121212"
