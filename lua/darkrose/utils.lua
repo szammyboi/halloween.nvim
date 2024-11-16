@@ -26,10 +26,10 @@ M.shade = function(hex, amount)
 end
 
 M.apply_highlights = function()
-  local options = require("darkrose.config").options
-  local colors = require("darkrose.colors").get()
+  local options = require("halloween.config").options
+  local colors = require("halloween.colors").get()
 
-  local theme = require("darkrose.theme").generate()
+  local theme = require("halloween.theme").generate()
 
   -- Apply overrides to colors
   theme.highlights = vim.tbl_deep_extend("force", theme.highlights, options.overrides(colors) or {})
