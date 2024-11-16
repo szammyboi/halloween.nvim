@@ -13,13 +13,13 @@ local gray = "#7A7A7A"
 local bg = "#000000"
 local bg_float = "#101010"
 local bg_float_bright = "#121212"
-local fg = "#C9C1C9"
-local fg_gutter = "#8A95A2"
-local fg_dark = "#4D5566"
+--local fg = "#C9C1C9"
+--local fg_gutter = "#8A95A2"
+--local fg_dark = "#4D5566"
 
---local fg = "#FFD1A3"
---local fg_gutter = "#C17A52"
---local fg_dark = "#8A3C2F"
+local fg = "#FFD1A3"
+local fg_gutter = "#C17A52"
+local fg_dark = "#8A3C2F"
 
 local M = {}
 
