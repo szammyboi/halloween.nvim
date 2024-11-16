@@ -1,7 +1,7 @@
 local red = "#D84B16"
 local dark_red = "#9C1B00"
 local light_red = "#FF5E00"
-local orange = "#ffa811"
+local orange = "#e68700"
 local light_orange = "#FF8C42"
 local dark_purple = "#6E0F0F"
 local magenta = "#C64C48"
@@ -21,7 +21,7 @@ local bg_float_bright = "#121212"
 local fg = "#FFD1A3"
 local fg_gutter = "#C17A52"
 local fg_dark = "#8A3C2F"
-local cc = "#000000"
+local cc = "#8A3C2F"
 local M = {}
 
 local colors = {
