@@ -21,7 +21,7 @@ local bg_float_bright = "#121212"
 local fg = "#FFD1A3"
 local fg_gutter = "#C17A52"
 local fg_dark = "#8A3C2F"
-local cc = "#8A3C2F"
+local cc = "#5c462a"
 local M = {}
 
 local colors = {
