@@ -6,7 +6,7 @@ local light_orange = "#f0c63e"
 local dark_purple = "#2b1c29"
 local magenta = "#8b292e"
 local dark_pink = "#b77d6e"
-local pink = "#ffa879"
+local pink = "#ff4500"
 local light_pink = "#f6c8a7"
 local gray = "#8b8b8b"
 
