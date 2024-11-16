@@ -10,11 +10,9 @@ local pink = "#FF2F1A"
 local light_pink = "#e08738"
 local gray = "#7A7A7A"
 
---local bg = "#1c1501"
+local bg = "#1c1501"
 --local bg = "#221a02"
---local bg_float = "#1c1501"
-local bg = "#000000"
-local bg_float = "#000000"
+local bg_float = "#1c1501"
 local bg_float_bright = "#121212"
 --local fg = "#C9C1C9"
 --local fg_gutter = "#8A95A2"
@@ -69,7 +67,7 @@ local colors = {
     string = red,
     param = fg,
     field = light_pink,
-    comment = gray,
+    comment = fg_dark,
   },
 
   markup = {
