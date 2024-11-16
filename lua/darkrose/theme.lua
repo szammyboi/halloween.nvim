@@ -1,5 +1,5 @@
-local colors = require("darkrose.colors")
-local utils = require("darkrose.utils")
+local colors = require("halloween.colors")
+local utils = require("halloween.utils")
 
 local M = {}
 
@@ -7,7 +7,7 @@ M.generate = function()
   local c = colors.get()
   local u = utils
 
-  local options = require("darkrose.config").options
+  local options = require("halloween.config").options
   local styles = options.styles
 
   local theme = {}
